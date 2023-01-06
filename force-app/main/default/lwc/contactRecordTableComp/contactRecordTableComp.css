@@ -1,0 +1,8 @@
+.divBoundry{
+    border: 1px solid rgb(104, 104, 104);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.fontSize{
+    font-size: 25px;
+    padding-bottom: 9px;
+}
